@@ -1,0 +1,18 @@
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\bin\Debug\Fotboll statistik.exe.config
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\bin\Debug\Fotboll statistik.exe
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\bin\Debug\Fotboll statistik.pdb
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\MainWindow.g.cs
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\App.g.cs
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll statistik_MarkupCompile.cache
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll statistik_MarkupCompile.lref
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\MainWindow.baml
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll statistik.g.resources
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll_statistik.Properties.Resources.resources
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll statistik.csproj.GenerateResource.cache
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll statistik.csproj.CoreCompileInputs.cache
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll statistik.exe
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll statistik.pdb
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\bin\Debug\LiteDB.dll
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\bin\Debug\LiteDB.xml
+C:\Adam\Spel\Fotboll statistik\Fotboll statistik\obj\Debug\Fotboll statistik.csproj.AssemblyReference.cache
